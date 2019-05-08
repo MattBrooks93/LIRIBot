@@ -2,9 +2,13 @@
 Please ensure the following dependencies have been installed (-npm install):
 
 axios
-dotenv 
-moment 
+
+dotenv
+
+moment
+
 node-spotify-api
+
 The package.json file has more information.
 
 concert-this (musical artist)
