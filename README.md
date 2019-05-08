@@ -30,8 +30,13 @@ Reads the text in the random.txt file and runs the appropriate function to retur
 Resources:
 
 Axios - Make HTTP requests
+
 Moment - Format times
+
 DotEnv - Hide API keys
+
 Node-Spotify-API - Retrieve song information
+
 OMDB API - Retrieve movie information
+
 Bands In Town API - Retrieve show information
